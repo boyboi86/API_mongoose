@@ -8,7 +8,7 @@ A Basic CRUD API with mongoose
 
 <a href="https://www.getpostman.com/">Postman</a> required to perform CRUD actions.
 
-##
+## Instructions
 
 clone repository, follow by $ npm install
 
@@ -20,7 +20,7 @@ follow by $ node index.js or $ nodemon index.js(if you have nodemon)
 
 connect to http://localhost:8080 using postman to try out application
 
-##
+## Note
 
 No seed Data has been provided, please refer to model.js before seeding any data.
 
